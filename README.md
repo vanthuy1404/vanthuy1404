@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Dang Van Thuy
+- I love AI/ML/DL
+- I'm studying computer vision
 
 
 <!---
