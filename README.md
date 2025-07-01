@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hello, I'm Dang Van Thuy ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76D57&center=true&vCenter=true&width=435&lines=👨‍🎓+4th+Year+Student+at+NEU;💻+.NET+Developer;⚛️+Frontend+with+ReactJS;🐍+AI/ML+with+Python" alt="Typing SVG" />
+
 </p>
 
 ---
