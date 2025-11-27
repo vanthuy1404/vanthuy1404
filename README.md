@@ -1,4 +1,4 @@
-<h1 align="center">🌱 Dang Van Thuy 🌱</h1>
+<h1 align="center">Dang Van Thuy 🌱</h1>
 <p align="center">
   Full-Stack Developer | .NET & Modern Web Technologies
 </p>
