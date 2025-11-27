@@ -1,44 +1,50 @@
-<h1 align="center">✨ Hello, I'm Dang Van Thuy ✨</h1>
+<h1 align="center">✨ Dang Van Thuy ✨</h1>
 <p align="center">
-
+  Full-Stack Developer | .NET & Modern Web Technologies
 </p>
 
 ---
 
-### 💡 About Me
+## 💼 About Me
+I am a **recent graduate** from **National Economics University (NEU)** with **6 months of professional experience** in software development. I specialize in **.NET development**, from legacy **WinForms / .NET Framework** to modern **.NET 9.0**, and also build **dynamic, type-safe frontend applications** using **ReactJS and TypeScript**.  
 
-🎓 I'm currently a **4th-year student** at **National Economics University (NEU)**.  
-💻 My main stack is **.NET** for backend development.  
-🌐 I'm also experienced with **ReactJS** for crafting dynamic frontend interfaces.  
-🧠 I’m passionate about **AI & Machine Learning** with **Python**.
+I enjoy turning ideas into functional, maintainable software and continuously improving my skills across the full stack.
 
 ---
 
-### 🚀 Tech Stack
+## 🛠 Technical Skills
 
-#### 🛠 Backend:
-- 🧱 ASP.NET Core / MVC / Web API
-- 🐘 Entity Framework Core
-- 🛡️ Authentication, Authorization (Cookie, JWT)
+### Backend
+- 🧱 **.NET Framework** (legacy WinForms, ASP.NET MVC)  
+- 🚀 **.NET 9.0 / ASP.NET Core / Web API**  
+- 🐘 Entity Framework Core  
+- 🛡️ Authentication & Authorization (Cookie, JWT)  
 
-#### 🎨 Frontend:
-- ⚛️ ReactJS + Hooks
-- 🌈 TailwindCSS / Bootstrap
-#### 🤖 AI / ML:
-- 🧠 Basic Deep Learning (TensorFlow, Keras)
+### Frontend
+- ⚛️ **ReactJS + TypeScript + Hooks**  
+- 🌈 TailwindCSS / Bootstrap  
+
+### Tools & Practices
+- Git / GitHub  
+- RESTful API design  
+- Agile / Scrum development workflow  
 
 ---
 
+## 📈 Professional Experience
+
+**Junior .NET Developer | 6 months**  
+- Developed desktop applications using **WinForms** and modernized parts to **.NET 9.0**  
+- Built and maintained **ASP.NET Core Web APIs** with **Entity Framework Core**  
+- Integrated **authentication and authorization** using JWT and cookies  
+- Collaborated with frontend developers to implement **ReactJS + TypeScript interfaces**  
+
 ---
 
-### 📫 Let's Connect!
-
+## 📫 Connect With Me
 - 📧 Email: *dangvanthuy04@gmail.com*  
-
-
 ---
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
-
