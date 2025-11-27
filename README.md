@@ -33,7 +33,7 @@ I enjoy turning ideas into functional, maintainable software and continuously im
 
 ## 📈 Professional Experience
 
-**Junior .NET Developer | 6 months**  
+**.NET Developer | 6 months**  
 - Developed desktop applications using **WinForms** and modernized parts to **.NET 9.0**  
 - Built and maintained **ASP.NET Core Web APIs** with **Entity Framework Core**  
 - Integrated **authentication and authorization** using JWT and cookies  
